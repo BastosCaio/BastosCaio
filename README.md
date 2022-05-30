@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caio Bastos and I'm working with Machine Learning in Matlab and Python, linking it with Neuroscience.
  
-- 👀 I’m interested in Machine Learning, Neuroscience.
+- 👀 I’m interested in Machine Learning and Neuroscience.
 - 🌱 I’m currently learning Machine Learning in python, while I do my Master's in NeuroScience.
 - 📫 How to reach me bastoscaio96@gmail.com
 
